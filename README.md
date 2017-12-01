@@ -1,4 +1,4 @@
 # Hello-World
 Test Hello World
 
-This is first my test on git hub.
+This is my first test on git hub.
